@@ -1,4 +1,4 @@
 # USNTest
 Update by Xinyi
-Updated by Nathan
-Updated by Manish
+Updated by Nathann
+Updated by Manis
